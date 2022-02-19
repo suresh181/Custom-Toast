@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Custom Toast</string>
+    <string name="general_toast">General toast</string>
+    <string name="show_general_toast">Show General Toast</string>
+    <string name="show_error_toast">Show Error Toast</string>
+    <string name="show_warning_toast">Show Warning Toast</string>
+    <string name="show_success_toast">Show Success Toast</string>
+
+</resources>
